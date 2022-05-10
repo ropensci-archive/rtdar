@@ -1,8 +1,5 @@
-[![Project Status: Abandoned – Initial development has started, but there has not yet been a stable, usable release; the project has been abandoned and the author(s) do not intend on continuing development.](http://www.repostatus.org/badges/latest/abandoned.svg)](http://www.repostatus.org/#abandoned)
+# rtdar
 
-rtdar
-=====
+[![Project Status: Abandoned](https://www.repostatus.org/badges/latest/abandoned.svg)](https://www.repostatus.org/#abandoned)
 
-R client for [TDAR](http://www.tdar.org/)
-
-Cf [discussion](https://github.com/ropensci/archeology/issues/8)
+This repository has been archived. The former README is now in [README-NOT.md](README-NOT.md).
